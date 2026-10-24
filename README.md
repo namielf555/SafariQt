@@ -1,2 +1,2 @@
 DO NOT FORGOT TO USE 
-chmod +x SafariQt-x86_64.AppImage
+chmod +x SafariQt-x86_64.AppImage && ./SafariQt-x86_64.AppImage
